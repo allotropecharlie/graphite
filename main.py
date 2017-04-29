@@ -165,9 +165,9 @@ class Runtime(object):
             elif cancel == 0:
                 print("That is invalid. Retype your command.")
                 continue
-
+            #if r has anything, the room is equal to r.
             if r is not None:
-                self.room = (r)
+                self.room = r
 
 #This just makes calling "rt" equal to calling "Runtime()".
 rt = Runtime()
