@@ -1,9 +1,8 @@
-student {
-studentName: Charlie Welsh;
-studentNum: 801199;
-studentEmp: Fourange, Inc.;
-studentPhone: (503)-847-5722;
-studentEmail: charlie@fourange.co;
-studentResume: https://docs.google.com/document/d/1qaoc-NJ8RC1btUMhwZUSB3uJlnTeeuh6ecrV90-WGzk/edit?usp=sharing;
-studentWeb: https://fourange.co;
-studentAddress: 19071 Bedford Drive; }
+studentName: Charlie Welsh
+studentNum: 801199
+studentEmp: Fourange, Inc.
+studentPhone: (503)-847-5722
+studentEmail: charlie@fourange.co
+studentResume: https://docs.google.com/document/d/1qaoc-NJ8RC1btUMhwZUSB3uJlnTeeuhrV90-WGzk/edit?usp=sharing
+studentWeb: https://fourange.co
+studentAddress: 19071 Bedford Drive
