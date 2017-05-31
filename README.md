@@ -1,2 +1,2 @@
-# Allotrope Graphite
-Allotrope Graphite is a work in progress database solution.
+# Graphite by Allotrope Labs
+Graphite is a work in progress database solution.
